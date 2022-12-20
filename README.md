@@ -1,5 +1,7 @@
 # Estimating PV Output from Solar Irradiance
 
+This a final project for STAT 400 (statistical computing) at Colorado State University by Evan Kessler, Adam Kiehl, and Boston Lee. This objective of the project was to bootstrap NREL solar irradiance data to estimate solar energy output for Fort Collins solar panels. 
+
 ## Packages required for this project
 
 System packages:
